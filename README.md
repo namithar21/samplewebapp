@@ -6,7 +6,7 @@ Azure Kubernetes Services:
 Agenda:
 	- ASP.NET Web application deployment on Azure Kubernetes Services
 		through Azure DevOps CI/CD
-
+--
 Flow:
 
 - ASP.NET Web application creation
